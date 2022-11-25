@@ -1,0 +1,5 @@
+C:\Users\Windows 10\Desktop\MDT\fruit\obj\Debug\net6.0\fruit.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\MDT\fruit\obj\Debug\net6.0\fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\MDT\fruit\obj\Debug\net6.0\fruit.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\MDT\fruit\obj\Debug\net6.0\fruit.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\MDT\fruit\obj\Debug\net6.0\fruit.csproj.CoreCompileInputs.cache
